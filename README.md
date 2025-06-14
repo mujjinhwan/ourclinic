@@ -4,20 +4,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Don't Worry, Be Happy!</title>
     <style>
+        @import url('https://webfontworld.github.io/cafe24/cafe24Ssurround.css'); /* Cafe24 폰트 가져오기 */
+
         body {
-            background-color: #000080; /* 배경색을 네이비로 변경 */
+            background-color: #000080; /* 배경색 네이비 */
             display: flex; /* Flexbox를 사용하여 중앙 정렬 */
             justify-content: center; /* 가로 중앙 정렬 */
             align-items: center; /* 세로 중앙 정렬 */
-            height: 100vh; /* 뷰포트 전체 높이를 사용 */
+            height: 100vh; /* 뷰포트 전체 높이 사용 */
             margin: 0; /* 기본 마진 제거 */
+            overflow: hidden; /* 스크롤바가 생기지 않도록 숨김 */
         }
 
         .message {
-            color: orange; /* 글씨색 오렌지 */
+            color: orange; /* 글자색 오렌지 */
             font-weight: bold; /* 글씨 굵게 */
-            font-size: 5em; /* 글씨 크기 조절 (원하는 대로 변경 가능) */
-            font-family: Arial, sans-serif; /* 글꼴 지정 (원하는 글꼴로 변경 가능) */
+            font-size: 50px; /* 글씨 크기 50px */
+            font-family: 'Cafe24Ssurround', sans-serif; /* Cafe24 폰트 적용 */
             text-align: center; /* 텍스트 중앙 정렬 */
         }
     </style>

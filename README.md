@@ -1,4 +1,3 @@
-
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +5,7 @@
     <title>Don't Worry, Be Happy!</title>
     <style>
         body {
-            /* 
-            background-color: #000080;
+            background-color: #000080; /* 배경색을 네이비로 변경 */
             display: flex; /* Flexbox를 사용하여 중앙 정렬 */
             justify-content: center; /* 가로 중앙 정렬 */
             align-items: center; /* 세로 중앙 정렬 */

@@ -1,7 +1,3 @@
-네이버 컬러 배경과 오렌지색 굵은 글씨체 텍스트 HTML 코드
-네이버의 브랜드 색상을 배경으로 하고, 중앙에 오렌지색 굵은 글씨체로 "Don't worry. Be happy."를 표시하는 HTML 코드를 알려드릴게요.
-
-HTML
 
 <!DOCTYPE html>
 <html lang="ko">

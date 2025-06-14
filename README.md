@@ -6,8 +6,8 @@
     <title>Don't Worry, Be Happy!</title>
     <style>
         body {
-            /* 네이버 대표 색상: #03C75A (녹색) */
-            background-color: #03C75A;
+            /* 
+            background-color: #000080;
             display: flex; /* Flexbox를 사용하여 중앙 정렬 */
             justify-content: center; /* 가로 중앙 정렬 */
             align-items: center; /* 세로 중앙 정렬 */
@@ -18,7 +18,7 @@
         .message {
             color: orange; /* 글씨색 오렌지 */
             font-weight: bold; /* 글씨 굵게 */
-            font-size: 3em; /* 글씨 크기 조절 (원하는 대로 변경 가능) */
+            font-size: 5em; /* 글씨 크기 조절 (원하는 대로 변경 가능) */
             font-family: Arial, sans-serif; /* 글꼴 지정 (원하는 글꼴로 변경 가능) */
             text-align: center; /* 텍스트 중앙 정렬 */
         }

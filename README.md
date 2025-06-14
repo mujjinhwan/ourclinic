@@ -7,7 +7,7 @@
         @import url('https://webfontworld.github.io/cafe24/cafe24Ssurround.css'); /* Cafe24 폰트 가져오기 */
 
         body {
-            background-color: #000080; /* 배경색 네이비 */
+            background-color: #696969; /* 배경색 네이비 */
             display: flex; /* Flexbox를 사용하여 중앙 정렬 */
             justify-content: center; /* 가로 중앙 정렬 */
             align-items: center; /* 세로 중앙 정렬 */

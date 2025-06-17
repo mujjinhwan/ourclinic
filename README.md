@@ -27,7 +27,7 @@
 </head>
 <body>
     <div class="message">
-        Don't worry. Be happy.
+        Make Democracy Great Again
     </div>
 </body>
 </html>

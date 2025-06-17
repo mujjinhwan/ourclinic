@@ -27,7 +27,7 @@
 </head>
 <body>
     <div class="message">
-        Make Democracy Great Again
+        Make Democracy. Great Again !!!
     </div>
 </body>
 </html>
